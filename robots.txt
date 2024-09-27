@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hdoudive.github.io/sitemap.hdoudive.gz
+Sitemap: https://hdoudive.github.io/app/sitemap.hdoudive.gz
+Sitemap: https://hdoudive.github.io/assets/sitemap.hdoudive.gz
+Sitemap: https://hdoudive.github.io/css/sitemap.hdoudive.gz
+Sitemap: https://hdoudive.github.io/data/sitemap.hdoudive.gz
+Sitemap: https://hdoudive.github.io/includes/sitemap.hdoudive.gz
+Sitemap: https://hdoudive.github.io/item/sitemap.hdoudive.gz
+Sitemap: https://hdoudive.github.io/src/sitemap.hdoudive.gz
